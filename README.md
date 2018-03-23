@@ -4,5 +4,5 @@ add pin 2 map
 RealFeelAudio-Louisville
 
 githubHandle: RealFeelAudio
-latitude: YOUR_LATITUDE
-longitude: YOUR_LONGITUDE
+latitude: 38.2603
+longitude: -85.7032
